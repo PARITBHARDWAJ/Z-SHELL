@@ -14,5 +14,5 @@
 
 *HOW TO DOWNLOAD THIS TOOL*
 - ```OPEN TERMUX APP```
-```PKG INSTALL GIT```
-```git clone 
+- ```Pkg install git```
+- ```git clone https://github.com/PARITBHARDWAJ/Z-SHELL.git```
