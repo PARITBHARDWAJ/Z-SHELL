@@ -16,3 +16,5 @@
 - ```OPEN TERMUX APP```
 - ```Pkg install git```
 - ```git clone https://github.com/PARITBHARDWAJ/Z-SHELL.git```
+- ```cd Z-SHELL```
+- ```bash Z-SHELL.sh```
